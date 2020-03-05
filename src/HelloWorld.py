@@ -1,5 +1,5 @@
 """
-绘制小猪佩奇
+绘制小猪佩奇...
 """
 from turtle import *
 
@@ -198,7 +198,6 @@ def main():
     cheek(80, 10)
     mouth(-20, 30)
     done()
-
 
 if __name__ == '__main__':
     main()
