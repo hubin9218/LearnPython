@@ -42,3 +42,7 @@ print(k)
 print(type(k))
 print(m)
 print(type(m))
+n='1'
+o=ord(n)
+print(o)
+print(type(o))
