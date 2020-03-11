@@ -18,6 +18,7 @@
     <SUITE FILE_PATH="coverage/testProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1583738117054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day01" />
     <SUITE FILE_PATH="coverage/testProject$while1.coverage" NAME="while1 Coverage Results" MODIFIED="1583745470179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day04" />
     <SUITE FILE_PATH="coverage/testProject$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1583471773103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day03" />
+    <SUITE FILE_PATH="coverage/testProject$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1583903051299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day05" />
     <SUITE FILE_PATH="coverage/testProject$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1583739152765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day04" />
     <SUITE FILE_PATH="coverage/testProject$variable5.coverage" NAME="variable5 Coverage Results" MODIFIED="1583464682719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day02" />
     <SUITE FILE_PATH="coverage/testProject$for4.coverage" NAME="for4 Coverage Results" MODIFIED="1583743027855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/day04" />
@@ -41,33 +42,51 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="84" />
+          <entry key="py" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="84" />
+          <entry key="Python" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="999" />
+          <entry key="py" value="1141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="999" />
+          <entry key="Python" value="1141" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day04/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day05/chicken.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day05/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -105,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/day04/for1.py" />
         <option value="$PROJECT_DIR$/src/day04/for4.py" />
         <option value="$PROJECT_DIR$/src/day04/test.py" />
+        <option value="$PROJECT_DIR$/src/day05/test.py" />
       </list>
     </option>
   </component>
@@ -160,7 +180,7 @@
               <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,6 +196,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\PycharmProjects\testProject\src\day05" />
       <recent name="D:\Workspace\PycharmProjects\testProject\src\day04" />
       <recent name="D:\Workspace\PycharmProjects\testProject\src\day03" />
       <recent name="D:\Workspace\PycharmProjects\testProject\src\day01" />
@@ -197,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.while1">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="for4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,12 +249,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/day03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/day03/grade.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/day05/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,17 +332,17 @@
     <list>
       <item itemvalue="Python.for4" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.grade" />
       <item itemvalue="Python.while1" />
       <item itemvalue="Python.while2" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.while1" />
         <item itemvalue="Python.while2" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.for4" />
-        <item itemvalue="Python.grade" />
       </list>
     </recent_temporary>
   </component>
@@ -580,6 +601,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05/chicken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
